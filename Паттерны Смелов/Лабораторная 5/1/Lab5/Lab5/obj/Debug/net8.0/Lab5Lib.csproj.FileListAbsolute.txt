@@ -1,0 +1,28 @@
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.AssemblyInfoInputs.cache
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.AssemblyInfo.cs
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.exe
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.deps.json
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.runtimeconfig.json
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.dll
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.pdb
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.dll
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\refint\Lab5Lib.dll
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.pdb
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.genruntimeconfig.cache
+D:\BSTU_4sem\ProgaPatterns\Lab5\Lab5\Lab5\obj\Debug\net8.0\ref\Lab5Lib.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.exe
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.deps.json
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\bin\Debug\net8.0\Lab5Lib.pdb
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\refint\Lab5Lib.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.pdb
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\Lab5Lib.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 5\1\Lab5\Lab5\obj\Debug\net8.0\ref\Lab5Lib.dll

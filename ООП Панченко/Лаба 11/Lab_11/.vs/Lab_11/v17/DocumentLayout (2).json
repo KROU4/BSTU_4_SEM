@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|c:\\users\\krou4\\yandexdisk\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u043F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u043B\u0430\u0431\u0430 11\\lab_11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B168DA-8604-4E7E-B73B-1AD760A31D52}|Lab_11.csproj|solutionrelative:models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T16:15:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvyMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:15:34.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAADwv1QAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:15:31.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "Models\\Specialization.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Models\\Specialization.cs",
+              "RelativeToolTip": "Models\\Specialization.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:15:30.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "Models\\Doctors.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Models\\Doctors.cs",
+              "RelativeToolTip": "Models\\Doctors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:15:29.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Models\\Customers.cs",
+              "RelativeToolTip": "Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:15:28.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Database\\Database.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Database\\Database.cs",
+              "RelativeToolTip": "Database\\Database.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAMwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:15:25.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 11\\Lab_11\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:15:23.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

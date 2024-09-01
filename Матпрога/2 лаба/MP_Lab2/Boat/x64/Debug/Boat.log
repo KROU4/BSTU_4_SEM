@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (5. Boat.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Auxil.cpp
+  Boat.cpp
+C:\Users\KROU4\YandexDisk\Уник\Матпрога\2 лаба\MP_Lab2\Boat\Boat.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Boat.cpp")
+  
+C:\Users\KROU4\YandexDisk\Уник\Матпрога\2 лаба\MP_Lab2\Boat\Boat.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MainBoat.cpp
+C:\Users\KROU4\YandexDisk\Уник\Матпрога\2 лаба\MP_Lab2\Boat\Boat.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "MainBoat.cpp")
+  
+  Создание кода...
+  Boat.vcxproj -> C:\Users\KROU4\YandexDisk\Уник\Матпрога\2 лаба\MP_Lab2\x64\Debug\5. Boat (using C).exe

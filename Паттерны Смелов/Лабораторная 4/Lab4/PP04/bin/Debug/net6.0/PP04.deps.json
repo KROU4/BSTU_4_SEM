@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PP04/1.0.0": {
+        "dependencies": {
+          "Lec04LibN": "1.0.0"
+        },
+        "runtime": {
+          "PP04.dll": {}
+        }
+      },
+      "Lec04LibN/1.0.0": {
+        "runtime": {
+          "Lec04LibN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lec04LibN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

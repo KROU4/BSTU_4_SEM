@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f6203e9-693d-492f-895e-87c2351f7518": {
+      "ProjectGuid": "5f6203e9-693d-492f-895e-87c2351f7518",
+      "DisplayName": "MP_Lab4",
+      "ColorIndex": 0
+    },
+    "9a7f937b-21ff-4213-9e17-b4d26e7fe692": {
+      "ProjectGuid": "9a7f937b-21ff-4213-9e17-b4d26e7fe692",
+      "DisplayName": "Matrix",
+      "ColorIndex": 1
+    },
+    "00796e27-b2c2-4f47-a98d-0d33a135d381": {
+      "ProjectGuid": "00796e27-b2c2-4f47-a98d-0d33a135d381",
+      "DisplayName": "LCS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

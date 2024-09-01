@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "983181ed-8b75-4ba4-8638-1d58a3ab57ce": {
+      "ProjectGuid": "983181ed-8b75-4ba4-8638-1d58a3ab57ce",
+      "DisplayName": "MP_Lab2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "ac85116f-2be1-4d53-90b7-27ad8328584f": {
+      "ProjectGuid": "ac85116f-2be1-4d53-90b7-27ad8328584f",
+      "DisplayName": "Sochetaniya",
+      "ColorIndex": 1
+    },
+    "49ba3cfb-63fd-400d-ab08-146d89b8395c": {
+      "ProjectGuid": "49ba3cfb-63fd-400d-ab08-146d89b8395c",
+      "DisplayName": "Perestanovki",
+      "ColorIndex": 2
+    },
+    "089fcc96-c2c7-41e6-90f2-fa794c38ef3a": {
+      "ProjectGuid": "089fcc96-c2c7-41e6-90f2-fa794c38ef3a",
+      "DisplayName": "Razmeshcheniya",
+      "ColorIndex": 3
+    },
+    "d5654f9f-a81a-42f4-b0d5-fa9f4240323e": {
+      "ProjectGuid": "d5654f9f-a81a-42f4-b0d5-fa9f4240323e",
+      "DisplayName": "Boat",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

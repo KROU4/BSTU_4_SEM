@@ -1,0 +1,31 @@
+﻿Сборка начата 01.03.2023 15:42:32.
+Уровень детализации журнала: Normal.     1>Проект "F:\лабы\МП\2 лаба\MP_Lab2\Sochetaniya\Sochetaniya.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\2. Soche.ac85116f.tlog\2. Sochetaniya (C).lastbuildstate" удаляется.
+     1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Sochetaniya.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+       InitializeBuildStatus:
+         Создание "x64\Debug\2. Soche.ac85116f.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Combi.cpp Sochetaniya.cpp
+         Combi.cpp
+         Sochetaniya.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\лабы\МП\2 лаба\MP_Lab2\x64\Debug\2. Sochetaniya (C).exe" /INCREMENTAL /ILK:"x64\Debug\2. Sochetaniya (C).ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\лабы\МП\2 лаба\MP_Lab2\x64\Debug\2. Sochetaniya (C).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\лабы\МП\2 лаба\MP_Lab2\x64\Debug\2. Sochetaniya (C).lib" /MACHINE:X64 x64\Debug\Combi.obj
+         x64\Debug\Sochetaniya.obj
+         Sochetaniya.vcxproj -> F:\лабы\МП\2 лаба\MP_Lab2\x64\Debug\2. Sochetaniya (C).exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\2. Soche.ac85116f.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\2. Soche.ac85116f.tlog\2. Sochetaniya (C).lastbuildstate".
+     1>Сборка проекта "F:\лабы\МП\2 лаба\MP_Lab2\Sochetaniya\Sochetaniya.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "F:\лабы\МП\2 лаба\MP_Lab2\Sochetaniya\Sochetaniya.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Sochetaniya.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.46

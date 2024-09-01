@@ -1,0 +1,41 @@
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.AssemblyReference.cache
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form2.resources
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form3.resources
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\refint\Lab2.dll
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form4.resources
+D:\BSTU_4sem\OOP\Lab2_2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Properties.Resources.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form2.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form3.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form4.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Properties.Resources.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\refint\Lab2.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 2\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll

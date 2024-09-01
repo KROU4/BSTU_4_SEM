@@ -1,0 +1,118 @@
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.exe
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.deps.json
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.runtimeconfig.json
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.pdb
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.AssemblyReference.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\App.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.lref
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.g.resources
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfoInputs.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfo.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.CoreCompileInputs.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\refint\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.pdb
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.genruntimeconfig.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ref\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\ControlzEx.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MahApps.Metro.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.MahApps.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\App.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.CopyComplete
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Converters.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Core.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Css.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Dom.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Model.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Gdi.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Runtime.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.en-US.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.ru-RU.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\yellow.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\black.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents1.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents1.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Converters.Wpf.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Core.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Css.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Dom.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Model.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Gdi.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Wpf.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Runtime.Wpf.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.AssemblyReference.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\black.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Dictionary1.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.en-US.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.ru-RU.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\yellow.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents1.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.lref
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\App.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\RoatedEvents1.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.g.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.Up2Date
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\refint\Laba4.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 4-7\Laba4\Laba4\obj\Debug\net6.0-windows\ref\Laba4.dll

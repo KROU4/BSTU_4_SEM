@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDiscipline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Discipline>
+    <name>СТАРИС</name>
+    <semester>1</semester>
+    <course>2</course>
+    <specialization>ИСиТ</specialization>
+    <amountoflections>9</amountoflections>
+    <amountoflabs>7</amountoflabs>
+    <control>Зачёт</control>
+    <date>2024-03-29T00:00:00</date>
+    <lecturer>
+      <department>Информационных систем и технологий</department>
+      <fio>Смелов В. В.</fio>
+      <auditorium>111</auditorium>
+      <experience>12</experience>
+    </lecturer>
+    <literature>
+      <Literature>
+        <name>Система</name>
+        <author>
+          <string>Смелов В. В.</string>
+        </author>
+        <year>2001</year>
+      </Literature>
+    </literature>
+  </Discipline>
+  <Discipline>
+    <name>ОАиП</name>
+    <semester>1</semester>
+    <course>1</course>
+    <specialization>ИСиТ</specialization>
+    <amountoflections>18</amountoflections>
+    <amountoflabs>16</amountoflabs>
+    <control>Экзамен</control>
+    <date>2024-03-27T00:00:00</date>
+    <lecturer>
+      <department>Программной инженерии</department>
+      <fio>Белодед Н. И.</fio>
+      <auditorium>113</auditorium>
+      <experience>35</experience>
+    </lecturer>
+    <literature>
+      <Literature>
+        <name>Плюсы</name>
+        <author>
+          <string>Белодед Н. И.</string>
+        </author>
+        <year>2000</year>
+      </Literature>
+    </literature>
+  </Discipline>
+  <Discipline>
+    <name>Дискретка</name>
+    <semester>1</semester>
+    <course>2</course>
+    <specialization>ИСиТ</specialization>
+    <amountoflections>18</amountoflections>
+    <amountoflabs>1</amountoflabs>
+    <control>Экзамен</control>
+    <date>2024-03-25T00:00:00</date>
+    <lecturer>
+      <department>Программной инженерии</department>
+      <fio>Буснюк Н. Н.</fio>
+      <auditorium>112</auditorium>
+      <experience>5</experience>
+    </lecturer>
+    <literature>
+      <Literature>
+        <name>Шарпы</name>
+        <author>
+          <string>Панченко О. А.</string>
+        </author>
+        <year>2022</year>
+      </Literature>
+    </literature>
+  </Discipline>
+</ArrayOfDiscipline>

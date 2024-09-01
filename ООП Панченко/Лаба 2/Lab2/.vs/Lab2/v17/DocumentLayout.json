@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|c:\\users\\krou4\\yandexdisk\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u043F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u043B\u0430\u0431\u0430 2\\lab2\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\semesterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\semesterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\lab2\\discipline.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26EA8080-029B-47C7-97DB-8A491E11C6F0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\discipline.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2\\Form1.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:13:23.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Discipline.xml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Discipline.xml",
+              "RelativeDocumentMoniker": "Lab2\\Discipline.xml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Discipline.xml",
+              "RelativeToolTip": "Lab2\\Discipline.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-28T14:22:07.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowJAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:12:15.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2\\Form1.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form1.cs",
+              "RelativeToolTip": "Lab2\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:12:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab2\\Form2.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form2.cs",
+              "RelativeToolTip": "Lab2\\Form2.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA6wFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:12:15.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab2\\Form3.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form3.cs",
+              "RelativeToolTip": "Lab2\\Form3.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAmwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:12:15.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form4.cs",
+              "RelativeDocumentMoniker": "Lab2\\Form4.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\Form4.cs",
+              "RelativeToolTip": "Lab2\\Form4.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAcwEsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:12:15.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\AuthorAttribute.cs",
+              "RelativeDocumentMoniker": "Lab2\\AuthorAttribute.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\AuthorAttribute.cs",
+              "RelativeToolTip": "Lab2\\AuthorAttribute.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:12:15.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SemesterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\SemesterAttribute.cs",
+              "RelativeDocumentMoniker": "Lab2\\SemesterAttribute.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 2\\Lab2\\Lab2\\SemesterAttribute.cs",
+              "RelativeToolTip": "Lab2\\SemesterAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:12:15.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

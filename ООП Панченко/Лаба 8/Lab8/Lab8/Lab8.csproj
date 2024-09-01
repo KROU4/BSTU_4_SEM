@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="down-square-svgrepo-com_blue.png" />
+    <None Remove="left-square-svgrepo-com.png" />
+    <None Remove="rigth-square-svgrepo-com.png" />
+    <None Remove="up-square-svgrepo-com.png" />
+    <None Remove="up-square-svgrepo-com_blue.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="down-square-svgrepo-com_blue.png" />
+    <Resource Include="left-square-svgrepo-com.png" />
+    <Resource Include="rigth-square-svgrepo-com.png" />
+    <Resource Include="up-square-svgrepo-com.png" />
+    <Resource Include="up-square-svgrepo-com_blue.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+[
+  {
+    "department": "Информационных систем и технологий",
+    "fio": "Смелов В. В.",
+    "auditorium": "111",
+    "experience": 12
+  },
+  {
+    "department": "Программной инженерии",
+    "fio": "Буснюк Н. Н.",
+    "auditorium": "112",
+    "experience": 5
+  },
+  {
+    "department": "Программной инженерии",
+    "fio": "Белодед Н. И.",
+    "auditorium": "113",
+    "experience": 35
+  }
+]

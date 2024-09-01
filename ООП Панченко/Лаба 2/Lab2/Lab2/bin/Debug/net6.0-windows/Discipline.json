@@ -1,0 +1,77 @@
+[
+  {
+    "name": "СТАРИС",
+    "semester": 1,
+    "course": 2,
+    "specialization": "ИСиТ",
+    "amountoflections": 9,
+    "amountoflabs": 7,
+    "control": "Зачёт",
+    "date": "2024-03-29T00:00:00",
+    "lecturer": {
+      "department": "Информационных систем и технологий",
+      "fio": "Смелов В. В.",
+      "auditorium": "111",
+      "experience": 12
+    },
+    "literature": [
+      {
+        "name": "Система",
+        "author": [
+          "Смелов В. В."
+        ],
+        "year": 2001
+      }
+    ]
+  },
+  {
+    "name": "ОАиП",
+    "semester": 1,
+    "course": 1,
+    "specialization": "ИСиТ",
+    "amountoflections": 18,
+    "amountoflabs": 16,
+    "control": "Экзамен",
+    "date": "2024-03-27T00:00:00",
+    "lecturer": {
+      "department": "Программной инженерии",
+      "fio": "Белодед Н. И.",
+      "auditorium": "113",
+      "experience": 35
+    },
+    "literature": [
+      {
+        "name": "Плюсы",
+        "author": [
+          "Белодед Н. И."
+        ],
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "name": "Дискретка",
+    "semester": 1,
+    "course": 2,
+    "specialization": "ИСиТ",
+    "amountoflections": 18,
+    "amountoflabs": 1,
+    "control": "Экзамен",
+    "date": "2024-03-25T00:00:00",
+    "lecturer": {
+      "department": "Программной инженерии",
+      "fio": "Буснюк Н. Н.",
+      "auditorium": "112",
+      "experience": 5
+    },
+    "literature": [
+      {
+        "name": "Шарпы",
+        "author": [
+          "Панченко О. А."
+        ],
+        "year": 2022
+      }
+    ]
+  }
+]

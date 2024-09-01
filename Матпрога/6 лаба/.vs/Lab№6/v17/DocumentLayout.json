@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\6 \u043B\u0430\u0431\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AB7564-68A8-4CDA-977D-54B0043899A7}|Lab\u21166\\Lab\u21166.vcxproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\6 \u043B\u0430\u0431\u0430\\Lab\u21166\\main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0AB7564-68A8-4CDA-977D-54B0043899A7}|Lab\u21166\\Lab\u21166.vcxproj|solutionrelative:Lab\u21166\\main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AB7564-68A8-4CDA-977D-54B0043899A7}|Lab\u21166\\Lab\u21166.vcxproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\6 \u043B\u0430\u0431\u0430\\Lab\u21166\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0AB7564-68A8-4CDA-977D-54B0043899A7}|Lab\u21166\\Lab\u21166.vcxproj|solutionrelative:Lab\u21166\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\6 \u043B\u0430\u0431\u0430\\Lab\u21166\\main.cpp",
+              "RelativeDocumentMoniker": "Lab\u21166\\main.cpp",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\6 \u043B\u0430\u0431\u0430\\Lab\u21166\\main.cpp",
+              "RelativeToolTip": "Lab\u21166\\main.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T20:56:11.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.hpp",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\6 \u043B\u0430\u0431\u0430\\Lab\u21166\\main.hpp",
+              "RelativeDocumentMoniker": "Lab\u21166\\main.hpp",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041C\u0430\u0442\u043F\u0440\u043E\u0433\u0430\\6 \u043B\u0430\u0431\u0430\\Lab\u21166\\main.hpp",
+              "RelativeToolTip": "Lab\u21166\\main.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T20:56:06.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.exe
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.deps.json
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.runtimeconfig.json
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.dll
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.pdb
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.csproj.AssemblyReference.cache
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.AssemblyInfoInputs.cache
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.AssemblyInfo.cs
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.csproj.CoreCompileInputs.cache
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.dll
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\refint\Lec03BLibN.dll
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.pdb
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.genruntimeconfig.cache
+D:\BSTU_4sem\ProgaPatterns\FinalLab3\Lab3\Lec03BLibN\obj\Debug\net6.0\ref\Lec03BLibN.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.exe
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.deps.json
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.pdb
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\refint\Lec03BLibN.dll
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.pdb
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\Паттерны Смелов\Лабораторная 3\Lab3\Lec03BLibN\obj\Debug\net6.0\ref\Lec03BLibN.dll

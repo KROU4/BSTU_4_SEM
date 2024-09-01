@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\lab8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|solutionrelative:lab8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|c:\\users\\krou4\\yandexdisk\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F \u043F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u043B\u0430\u0431\u0430 8\\lab8\\lab8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|solutionrelative:lab8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\lab8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|solutionrelative:lab8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\lab8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A7FFC88-3735-4337-B651-4EC92E580CF7}|Lab8\\Lab8.csproj|solutionrelative:lab8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab8\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\MainWindow.xaml",
+              "RelativeToolTip": "Lab8\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T14:07:00.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\App.config",
+              "RelativeDocumentMoniker": "Lab8\\App.config",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\App.config",
+              "RelativeToolTip": "Lab8\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-07T22:57:36.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab8\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab8\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAiwL4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:57:36.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\App.xaml",
+              "RelativeDocumentMoniker": "Lab8\\App.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F \u041F\u0430\u043D\u0447\u0435\u043D\u043A\u043E\\\u041B\u0430\u0431\u0430 8\\Lab8\\Lab8\\App.xaml",
+              "RelativeToolTip": "Lab8\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T22:57:36.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

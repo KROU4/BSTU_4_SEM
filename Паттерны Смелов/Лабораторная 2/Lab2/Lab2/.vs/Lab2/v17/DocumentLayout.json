@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|c:\\users\\krou4\\yandexdisk\\\u0443\u043D\u0438\u043A\\\u043F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0441\u043C\u0435\u043B\u043E\u0432\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\lab2\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\lab2\\reason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1D5E81-F1EF-47C7-870B-F77291DE8584}|Lab2\\Lab2.csproj|solutionrelative:lab2\\reason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Faculty.cs",
+              "RelativeDocumentMoniker": "Lab2\\Faculty.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Faculty.cs",
+              "RelativeToolTip": "Lab2\\Faculty.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAYwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab2\\Employee.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Employee.cs",
+              "RelativeToolTip": "Lab2\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobVacancy.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\JobVacancy.cs",
+              "RelativeDocumentMoniker": "Lab2\\JobVacancy.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\JobVacancy.cs",
+              "RelativeToolTip": "Lab2\\JobVacancy.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Person.cs",
+              "RelativeDocumentMoniker": "Lab2\\Person.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Person.cs",
+              "RelativeToolTip": "Lab2\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\University.cs",
+              "RelativeDocumentMoniker": "Lab2\\University.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\University.cs",
+              "RelativeToolTip": "Lab2\\University.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAwKUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Organization.cs",
+              "RelativeDocumentMoniker": "Lab2\\Organization.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Organization.cs",
+              "RelativeToolTip": "Lab2\\Organization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStaff.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\IStaff.cs",
+              "RelativeDocumentMoniker": "Lab2\\IStaff.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\IStaff.cs",
+              "RelativeToolTip": "Lab2\\IStaff.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Department.cs",
+              "RelativeDocumentMoniker": "Lab2\\Department.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Department.cs",
+              "RelativeToolTip": "Lab2\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reason.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Reason.cs",
+              "RelativeDocumentMoniker": "Lab2\\Reason.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041F\u0430\u0442\u0442\u0435\u0440\u043D\u044B \u0421\u043C\u0435\u043B\u043E\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 2\\Lab2\\Lab2\\Lab2\\Reason.cs",
+              "RelativeToolTip": "Lab2\\Reason.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T16:03:30.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

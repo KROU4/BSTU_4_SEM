@@ -1,0 +1,172 @@
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.csproj.AssemblyReference.cache
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\App.g.cs
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11_MarkupCompile.cache
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11_MarkupCompile.lref
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\refint\Lab11.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.pdb
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.exe
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.dll.config
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.deps.json
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.runtimeconfig.json
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.pdb
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.g.resources
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.AssemblyInfoInputs.cache
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.AssemblyInfo.cs
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.csproj.CoreCompileInputs.cache
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.csproj.Up2Date
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.genruntimeconfig.cache
+D:\BSTU_4sem\OOP\Lab11\Lab11\Lab11\obj\Debug\net8.0-windows\ref\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.dll.config
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Lab11.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.csproj.AssemblyReference.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11_MarkupCompile.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11_MarkupCompile.lref
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.g.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.csproj.Up2Date
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\refint\Lab11.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\Lab11.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 11\Lab11\Lab11\obj\Debug\net8.0-windows\ref\Lab11.dll

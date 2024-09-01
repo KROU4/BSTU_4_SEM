@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\KROU4\YandexDisk\Уник\Матпрога\6 лаба\Lab№6\main.hpp(253,30): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\KROU4\YandexDisk\Уник\Матпрога\6 лаба\Lab№6\main.hpp(266,30): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  LINK : не найден или не выполнена сборка C:\Users\KROU4\YandexDisk\Уник\Матпрога\6 лаба\x64\Debug\Lab№6.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Lab№6.vcxproj -> C:\Users\KROU4\YandexDisk\Уник\Матпрога\6 лаба\x64\Debug\Lab№6.exe

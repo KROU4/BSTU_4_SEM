@@ -1,0 +1,154 @@
+-- (system)
+ALTER SESSION SET "_oracle_script" = TRUE;
+
+
+-- Задание №1
+-- (system)
+SELECT * FROM DBA_TABLESPACES;
+
+
+-- Задание №2
+-- (system)
+CREATE TABLESPACE VDI_QDATA
+DATAFILE 'C:\app\KROU4\product\21c\TempFilesForLabs\Lab5\VDI_QDATA1.dbf'
+    SIZE 10m
+OFFLINE
+;
+
+ALTER TABLESPACE VDI_QDATA ONLINE;
+
+CREATE USER VDII
+IDENTIFIED BY Pa$$w0rd
+DEFAULT TABLESPACE VDI_QDATA
+;
+
+GRANT CREATE SESSION, CREATE any TABLE, alter any table, insert any table TO VDII;
+
+ALTER USER VDII
+QUOTA 2m ON VDI_QDATA
+;
+
+-- (VDI)
+CREATE TABLE VDI_T1 (
+    ID int,
+    DATA varchar2(30),
+    CONSTRAINT VDI_T1_PK PRIMARY KEY (ID)
+);
+
+INSERT INTO VDI_T1(ID, DATA) VALUES (1, 'some data 1');
+INSERT INTO VDI_T1(ID, DATA) VALUES (2, 'some data 2');
+INSERT INTO VDI_T1(ID, DATA) VALUES (3, 'some data 3');
+
+SELECT * FROM VDI_T1;
+
+
+-- Задание №3
+-- (system)
+SELECT * FROM DBA_SEGMENTS WHERE TABLESPACE_NAME = 'VDI_QDATA';
+
+
+-- Задание №4
+-- (system)
+SELECT * FROM DBA_SEGMENTS WHERE SEGMENT_NAME = 'VDI_T1';
+
+
+-- Задание №5
+-- (system)
+SELECT * FROM DBA_SEGMENTS;
+-- (VDI)
+SELECT * FROM USER_SEGMENTS;
+
+
+-- Задание №6
+-- (VDI)
+DROP TABLE VDI_T1;
+
+
+-- Задание №7
+-- (system)
+SELECT * FROM DBA_SEGMENTS WHERE TABLESPACE_NAME = 'VDI_QDATA';
+-- (VDI)
+SELECT * FROM USER_RECYCLEBIN;
+
+
+-- Задание №8
+-- (VDI)
+FLASHBACK TABLE VDI_T1 TO BEFORE DROP;
+SELECT * FROM VDI_T1;
+
+
+-- Задание №9
+-- (VDI)
+DELETE FROM VDI_T1 WHERE ID > 3;
+
+BEGIN
+    FOR i IN 1..10000
+    LOOP
+        INSERT INTO VDI_T1 VALUES ((10 + i), CONCAT('some data ', TO_CHAR((10 + i))));
+    END LOOP;
+END;
+
+SELECT * FROM VDI_T1 ORDER BY ID;
+
+
+-- Задание №10
+-- (VDI)
+SELECT 
+    SEGMENT_NAME,
+    EXTENT_ID,
+    BLOCKS,
+    BYTES
+FROM 
+    USER_EXTENTS 
+WHERE
+    SEGMENT_NAME = 'VDI_T1'
+;
+
+
+-- Задание №11
+-- (system)
+SELECT * FROM DBA_EXTENTS;
+
+
+-- Задание №12
+-- (VDI)
+SELECT ID, ROWID FROM VDI_T1;
+
+-- (system)
+SELECT ROWID FROM HELP;
+
+
+-- Задание №13
+-- (VDI)
+SELECT ID, ROWID, ORA_ROWSCN FROM VDI_T1;
+
+
+-- Задание №14
+-- (VDI)
+DELETE FROM VDI_T1;
+
+DROP TABLE VDI_T1;
+
+CREATE TABLE VDI_T1 (
+    ID int,
+    DATA varchar2(30),
+    CONSTRAINT VDI_T1_PK PRIMARY KEY (ID)
+) ROWDEPENDENCIES;
+
+BEGIN
+    FOR i IN 1..20
+    LOOP
+        INSERT INTO VDI_T1 VALUES (i, CONCAT('some data ', TO_CHAR(i)));
+        COMMIT;
+    END LOOP;
+END;
+
+SELECT ID, ROWID, ORA_ROWSCN FROM VDI_T1;
+
+
+-- Задание №15 - 16
+-- (system)
+DROP USER VDI CASCADE;
+DROP TABLESPACE VDI_QDATA;
+
+SELECT Object_Name, Original_Name, Type FROM dba_Recyclebin;

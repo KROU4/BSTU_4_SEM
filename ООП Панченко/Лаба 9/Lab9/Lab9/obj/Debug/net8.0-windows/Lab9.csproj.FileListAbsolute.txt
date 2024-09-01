@@ -1,0 +1,138 @@
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.exe
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.deps.json
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.runtimeconfig.json
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.pdb
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.csproj.AssemblyReference.cache
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\App.g.cs
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9_MarkupCompile.cache
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9_MarkupCompile.lref
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\MainWindow.baml
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.g.resources
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.AssemblyInfoInputs.cache
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.AssemblyInfo.cs
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.csproj.CoreCompileInputs.cache
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.csproj.Up2Date
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\refint\Lab9.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.pdb
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.genruntimeconfig.cache
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\obj\Debug\net8.0-windows\ref\Lab9.dll
+D:\BSTU_4sem\OOP\Lab9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.dll.config
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.exe
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.dll.config
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.deps.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.runtimeconfig.json
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Lab9.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.csproj.AssemblyReference.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9_MarkupCompile.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9_MarkupCompile.lref
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.g.resources
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.AssemblyInfoInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.AssemblyInfo.cs
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.csproj.Up2Date
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\refint\Lab9.dll
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.pdb
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\Lab9.genruntimeconfig.cache
+C:\Users\KROU4\YandexDisk\Уник\ООП Панченко\Лаба 9\Lab9\Lab9\obj\Debug\net8.0-windows\ref\Lab9.dll

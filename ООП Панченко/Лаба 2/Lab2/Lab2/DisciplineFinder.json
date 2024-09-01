@@ -1,0 +1,27 @@
+[
+  {
+    "name": "\u041E\u0410\u0438\u041F",
+    "semester": 1,
+    "course": 1,
+    "specialization": "\u0418\u0421\u0438\u0422",
+    "amountoflections": 18,
+    "amountoflabs": 16,
+    "control": "\u042D\u043A\u0437\u0430\u043C\u0435\u043D",
+    "date": "2024-03-27T00:00:00",
+    "lecturer": {
+      "department": "\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0439 \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u0438",
+      "fio": "\u0411\u0435\u043B\u043E\u0434\u0435\u0434 \u041D. \u0418.",
+      "auditorium": "113",
+      "experience": 35
+    },
+    "literature": [
+      {
+        "name": "\u041F\u043B\u044E\u0441\u044B",
+        "author": [
+          "\u0411\u0435\u043B\u043E\u0434\u0435\u0434 \u041D. \u0418."
+        ],
+        "year": 2000
+      }
+    ]
+  }
+]
