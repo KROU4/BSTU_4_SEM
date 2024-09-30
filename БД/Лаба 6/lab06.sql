@@ -20,7 +20,7 @@ WHERE NAME = 'open_cursors'
 
 
 -- Задание №7
-ALTER SYSTEM SET open_cursors = 300 SCOPE = SPFILE;
+ALTER SYSTEM SET open_cursors = 400 SCOPE = SPFILE;
 
 
 -- Задание №8
@@ -48,4 +48,4 @@ SELECT * FROM V$DIAG_INFO WHERE NAME = 'Diag Alert';
 
 
 -- Задание №14
--- C:\app\KROU4\product\21c\diag\rdbms\xe\xe\trace
+-- C:\app\KROU4\product\21c\diag\rdbms\xe\xe\trace УПРАВЛ ФАЙЛЫ

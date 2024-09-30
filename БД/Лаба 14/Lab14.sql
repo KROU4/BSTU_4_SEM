@@ -1,6 +1,6 @@
 set serveroutput on;
 
-GRANT CREATE TRIGGER TO VAVCORE;
+GRANT CREATE TRIGGER TO lab9user;
 
 -- 1
 
@@ -183,10 +183,23 @@ FOR EACH ROW
 DECLARE
     max_ID NUMBER;
 BEGIN
+    -- Получаем новый ID для вставки новой записи
     SELECT MAX(StudentID) + 1 INTO max_ID FROM Students;
-    INSERT INTO Students VALUES (max_ID, :NEW.LastName, :NEW.Age);
-    UPDATE Students SET LastName = 'Invalid: ' || LastName, Age = 'Invalid: ' || Age WHERE StudentID = :NEW.StudentID;
+    
+    -- Вставляем новую запись с новыми значениями
+    INSERT INTO Students (StudentID, LastName, Age) 
+    VALUES (max_ID, :NEW.LastName, :NEW.Age);
+
+    -- Обновляем старую запись, помечая её как "Invalid"
+    UPDATE Students 
+    SET 
+        LastName = 'Invalid: ' || LastName, 
+        Age = -1 -- Используем числовое значение для Age, соответствующее его типу данных
+    WHERE 
+        StudentID = :OLD.StudentID;
 END;
+/
+
 
 
 UPDATE View_Students SET LastName = 'Медведев' WHERE StudentID = 1;
@@ -221,6 +234,6 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('TESTTABLE_AFTER_INS_3');
 END;
 
-INSERT INTO TestTable VALUES (2, 'Test1');
+INSERT INTO TestTable VALUES (1, 'Test2');
 
 DROP TABLE TestTable;

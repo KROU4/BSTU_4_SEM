@@ -110,7 +110,7 @@ SHOW PARAMETER shared_server;
 
 
 -- Задание №20
--- lsnrctl services
+-- lsnrctl services 888****************
 
 
 -- Удаление таблиц
